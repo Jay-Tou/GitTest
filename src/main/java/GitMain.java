@@ -5,5 +5,7 @@ public class GitMain {
         System.out.println("111");
         System.out.println("111");
         System.out.println("hot-fix!");
+        System.out.println("hot-fix");
+        System.out.println("pull test！");
     }
 }
